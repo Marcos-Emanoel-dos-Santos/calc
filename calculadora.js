@@ -58,7 +58,7 @@ function math(num, op){ /* QUANDO IGUAL FOR APERTADO */
     } else if(op == "%"){
         display.value = (parseInt(num[0])/100) * parseInt(num[1]);
     }
-    /*  LIMPA A ARRAY NUM  */
+    /*  LIMPA A ARRAY num  */
     while(num.length > 0){
         num.pop();
     }
