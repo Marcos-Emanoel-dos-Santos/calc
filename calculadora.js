@@ -59,10 +59,4 @@ function math(num, op){ /* quando igual for apertado */
     while(num.length > 0){
         num.pop();
     }
-    while(num.length > 0){
-        num.pop();
-    }
-    while(num.length > 0){
-        num.pop();
-    }
 }
